@@ -1,0 +1,45 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+    <test name="Launch Page successful" >
+          <classes>
+              <class name="testCases.pageLaunchTest" />
+          </classes>
+      </test>
+    <test name="Add owner" >
+          <classes>
+              <class name="testCases.addNewOwnerTest" />
+          </classes>
+      </test>
+  <test name="Search Existing Owner" >
+      <classes>
+          <class name="testCases.searchExistingOwner" />
+      </classes>
+  </test>
+    <test name="Search Vetenararians" >
+        <classes>
+            <class name="testCases.getveterinariansList" />
+        </classes>
+    </test>
+    <test name="Update Owner" >
+        <classes>
+            <class name="testCases.UpdateOwnerTest" />
+        </classes>
+    </test>
+    <test name="Add Pet" >
+        <classes>
+            <class name="testCases.AddNewPetToExistingOwnerTest" />
+        </classes>
+    </test>
+    <test name="Add new visit" >
+        <classes>
+            <class name="testCases.AddNewVisitToPetTest" />
+        </classes>
+    </test>
+    <test name="Search Existing Owner with pet and visits" >
+        <classes>
+            <class name="testCases.searchExistingOwnerWithPetsAndVisits" />
+        </classes>
+    </test>
+
+</suite>

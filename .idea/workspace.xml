@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9b73e7b-95da-4a7b-874e-7c9b775c71fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wth4z8RxRyh21ZoiQbJR9g54UO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testCases" />
+      <recent name="pageObjects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/mitramac/Documents/PetClinicTesting/testNG.xml">
+    <configuration name="driverSettings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helperFunctions.driverSettings" />
+      <module name="PetClinicTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helperFunctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/mitramac/Documents/PetClinicTesting/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetClinicTesting" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/mitramac/Documents/PetClinicTesting/testNG.xml" />
+        <item itemvalue="Application.driverSettings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9b73e7b-95da-4a7b-874e-7c9b775c71fd" name="Default Changelist" comment="" />
+      <created>1629283605085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629283605085</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="83" key="#Project_Structure" timestamp="1629289627005">
+      <screen x="0" y="25" width="1440" height="796" />
+    </state>
+    <state x="320" y="83" key="#Project_Structure/0.25.1440.793@0.25.1440.793" timestamp="1629284817972" />
+    <state x="320" y="83" key="#Project_Structure/0.25.1440.796@0.25.1440.796" timestamp="1629289627005" />
+    <state x="100" y="125" width="1240" height="593" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1629302597958">
+      <screen x="0" y="25" width="1440" height="798" />
+    </state>
+    <state x="100" y="125" width="1240" height="593" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.25.1440.798@0.25.1440.798" timestamp="1629302597958" />
+    <state x="410" y="228" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1629285874250">
+      <screen x="0" y="25" width="1440" height="793" />
+    </state>
+    <state x="410" y="228" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.793@0.25.1440.793" timestamp="1629285874250" />
+    <state x="491" y="285" width="457" height="322" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1629286951720">
+      <screen x="0" y="25" width="1440" height="793" />
+    </state>
+    <state x="491" y="285" width="457" height="322" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.25.1440.793@0.25.1440.793" timestamp="1629286951720" />
+    <state x="483" y="134" key="#xdebugger.evaluate" timestamp="1629305234692">
+      <screen x="0" y="25" width="1440" height="798" />
+    </state>
+    <state x="483" y="134" key="#xdebugger.evaluate/0.25.1440.798@0.25.1440.798" timestamp="1629305234692" />
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1629306620642">
+      <screen x="0" y="25" width="1440" height="796" />
+    </state>
+    <state width="1398" height="384" key="GridCell.Tab.0.bottom/0.25.1440.793@0.25.1440.793" timestamp="1629294390050" />
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.25.1440.796@0.25.1440.796" timestamp="1629306620642" />
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.25.1440.798@0.25.1440.798" timestamp="1629305801124" />
+    <state width="1398" height="249" key="GridCell.Tab.0.bottom/0.25.1440.800@0.25.1440.800" timestamp="1629302681284" />
+    <state width="1398" height="238" key="GridCell.Tab.0.center" timestamp="1629306620641">
+      <screen x="0" y="25" width="1440" height="796" />
+    </state>
+    <state width="1398" height="384" key="GridCell.Tab.0.center/0.25.1440.793@0.25.1440.793" timestamp="1629294390049" />
+    <state width="1398" height="238" key="GridCell.Tab.0.center/0.25.1440.796@0.25.1440.796" timestamp="1629306620641" />
+    <state width="1398" height="238" key="GridCell.Tab.0.center/0.25.1440.798@0.25.1440.798" timestamp="1629305801123" />
+    <state width="1398" height="249" key="GridCell.Tab.0.center/0.25.1440.800@0.25.1440.800" timestamp="1629302681282" />
+    <state width="1398" height="238" key="GridCell.Tab.0.left" timestamp="1629306620641">
+      <screen x="0" y="25" width="1440" height="796" />
+    </state>
+    <state width="1398" height="384" key="GridCell.Tab.0.left/0.25.1440.793@0.25.1440.793" timestamp="1629294390049" />
+    <state width="1398" height="238" key="GridCell.Tab.0.left/0.25.1440.796@0.25.1440.796" timestamp="1629306620641" />
+    <state width="1398" height="238" key="GridCell.Tab.0.left/0.25.1440.798@0.25.1440.798" timestamp="1629305801122" />
+    <state width="1398" height="249" key="GridCell.Tab.0.left/0.25.1440.800@0.25.1440.800" timestamp="1629302681282" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right" timestamp="1629306620641">
+      <screen x="0" y="25" width="1440" height="796" />
+    </state>
+    <state width="1398" height="384" key="GridCell.Tab.0.right/0.25.1440.793@0.25.1440.793" timestamp="1629294390050" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right/0.25.1440.796@0.25.1440.796" timestamp="1629306620641" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right/0.25.1440.798@0.25.1440.798" timestamp="1629305801123" />
+    <state width="1398" height="249" key="GridCell.Tab.0.right/0.25.1440.800@0.25.1440.800" timestamp="1629302681283" />
+    <state width="1398" height="249" key="GridCell.Tab.1.bottom" timestamp="1629305355099">
+      <screen x="0" y="25" width="1440" height="796" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.1.bottom/0.25.1440.793@0.25.1440.793" timestamp="1629289768532" />
+    <state width="1398" height="249" key="GridCell.Tab.1.bottom/0.25.1440.796@0.25.1440.796" timestamp="1629305355099" />
+    <state width="1398" height="249" key="GridCell.Tab.1.bottom/0.25.1440.798@0.25.1440.798" timestamp="1629305327824" />
+    <state width="1398" height="249" key="GridCell.Tab.1.bottom/0.25.1440.800@0.25.1440.800" timestamp="1629302681285" />
+    <state width="1398" height="249" key="GridCell.Tab.1.center" timestamp="1629305355099">
+      <screen x="0" y="25" width="1440" height="796" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.1.center/0.25.1440.793@0.25.1440.793" timestamp="1629289768531" />
+    <state width="1398" height="249" key="GridCell.Tab.1.center/0.25.1440.796@0.25.1440.796" timestamp="1629305355099" />
+    <state width="1398" height="249" key="GridCell.Tab.1.center/0.25.1440.798@0.25.1440.798" timestamp="1629305327824" />
+    <state width="1398" height="249" key="GridCell.Tab.1.center/0.25.1440.800@0.25.1440.800" timestamp="1629302681284" />
+    <state width="1398" height="249" key="GridCell.Tab.1.left" timestamp="1629305355098">
+      <screen x="0" y="25" width="1440" height="796" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.1.left/0.25.1440.793@0.25.1440.793" timestamp="1629289768530" />
+    <state width="1398" height="249" key="GridCell.Tab.1.left/0.25.1440.796@0.25.1440.796" timestamp="1629305355098" />
+    <state width="1398" height="249" key="GridCell.Tab.1.left/0.25.1440.798@0.25.1440.798" timestamp="1629305327823" />
+    <state width="1398" height="249" key="GridCell.Tab.1.left/0.25.1440.800@0.25.1440.800" timestamp="1629302681284" />
+    <state width="1398" height="249" key="GridCell.Tab.1.right" timestamp="1629305355099">
+      <screen x="0" y="25" width="1440" height="796" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.1.right/0.25.1440.793@0.25.1440.793" timestamp="1629289768531" />
+    <state width="1398" height="249" key="GridCell.Tab.1.right/0.25.1440.796@0.25.1440.796" timestamp="1629305355099" />
+    <state width="1398" height="249" key="GridCell.Tab.1.right/0.25.1440.798@0.25.1440.798" timestamp="1629305327824" />
+    <state width="1398" height="249" key="GridCell.Tab.1.right/0.25.1440.800@0.25.1440.800" timestamp="1629302681285" />
+    <state x="397" y="250" key="com.intellij.ide.util.TipDialog" timestamp="1629283608278">
+      <screen x="0" y="25" width="1440" height="793" />
+    </state>
+    <state x="397" y="250" key="com.intellij.ide.util.TipDialog/0.25.1440.793@0.25.1440.793" timestamp="1629283608278" />
+    <state x="383" y="178" width="674" height="486" key="find.popup" timestamp="1629283853108">
+      <screen x="0" y="25" width="1440" height="793" />
+    </state>
+    <state x="383" y="178" width="674" height="486" key="find.popup/0.25.1440.793@0.25.1440.793" timestamp="1629283853108" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1629288796166">
+      <screen x="0" y="25" width="1440" height="798" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.25.1440.798@0.25.1440.798" timestamp="1629288796166" />
+    <state x="385" y="142" width="670" height="679" key="search.everywhere.popup" timestamp="1629303534428">
+      <screen x="0" y="25" width="1440" height="796" />
+    </state>
+    <state x="385" y="142" width="670" height="676" key="search.everywhere.popup/0.25.1440.793@0.25.1440.793" timestamp="1629286333406" />
+    <state x="385" y="142" width="670" height="679" key="search.everywhere.popup/0.25.1440.796@0.25.1440.796" timestamp="1629303534428" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testCases/pageLaunchTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pageObjects/petVisit.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
