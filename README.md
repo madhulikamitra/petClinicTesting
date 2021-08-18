@@ -2,6 +2,23 @@
 Objective
 To create a automated test suite for testing the pet clinic application testing for the requirements for adding an owner, pet, visit and update them.
 
+Here are the stories for testing:
+• Asauser,Iwanttoaddanewowner.
+• As a user, I want to update an existing owner.
+• As a user, I want to search for an existing owner by his/her lastname.
+• As a user, I want to view the list of veterinarians.
+• As a user, I want to add a new pet for an existing owner.
+• As a user, I want to add a visit to the veterinarian for my pet.
+• As a user, I want to view my pets & visits details.
+• As a user, I should see a pet clinic logo image on home page below the
+welcome text.
+
+Running PetClinic Locally
+Petclinic is a Spring Boot application built using Maven. You can build a jar file and run it from the command line.
+Step 1: git clone https://github.com/spring-projects/spring-petclinic.git Step 2: cd spring-petclinic
+Step 3: ./mvnw package
+Step 4: java -jar target/*.jar
+
 Approach
 Created a simple TestNG based framework on Selenium with Page Factory design approach for setting up regression testing. Each of the test cases are logically created based on the core requirements
 The tests now cover the positive flows.
