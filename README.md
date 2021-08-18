@@ -31,7 +31,7 @@ How to run the cases?
 Right click on the TestNG.xml and click on run.
 Prerequisite : Install JAVA JDK- 11.0.6" Install Intellij/Eclipse- a suitable IDE Install GIT bash/GIT GUI to pull my repo If your IDE does not have MAVEN already available you can get it from marketplace . You also need TestNG if not already present. You can get it marketplace.
 Steps to Run the test
-Create a folder on your local where you want to download the project Clone the project from GIT with command git clone https://github.com/madhulikamitra/petClinicTesting
+Create a folder on your local where you want to download the project Clone the project from GIT with command git clone https://github.com/madhulikamitra/petClinicTesting
 Once cloned successfully open your IDE and import the project as a Maven project. Your path should be until where the pom.xml resides Build with Maven-Install, once the project is imported. Wait for all dependencies to get downloaded Ensure you see no errors in your project, maybe i missed some prerequisite step, so for any issues let me know :) 
 Right click and Run the TestNG.xml file under the main project directory
 Techstack Java, Maven, TestNG,Extent Reports,PageFactory
@@ -47,3 +47,5 @@ If we add an owner name with random number and text the app crashes and we are o
 
 Enhancement:
 On adding visits or pets, it should ordered in the order of addition. Currently its randomized
+
+
